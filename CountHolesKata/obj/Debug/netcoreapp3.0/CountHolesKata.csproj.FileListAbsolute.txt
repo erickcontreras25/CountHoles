@@ -1,0 +1,11 @@
+C:\vanguardia\projects\CountHoles\CountHolesKata\obj\Debug\netcoreapp3.0\CountHolesKata.csprojAssemblyReference.cache
+C:\vanguardia\projects\CountHoles\CountHolesKata\obj\Debug\netcoreapp3.0\CountHolesKata.AssemblyInfoInputs.cache
+C:\vanguardia\projects\CountHoles\CountHolesKata\obj\Debug\netcoreapp3.0\CountHolesKata.AssemblyInfo.cs
+C:\vanguardia\projects\CountHoles\CountHolesKata\bin\Debug\netcoreapp3.0\CountHolesKata.exe
+C:\vanguardia\projects\CountHoles\CountHolesKata\bin\Debug\netcoreapp3.0\CountHolesKata.deps.json
+C:\vanguardia\projects\CountHoles\CountHolesKata\bin\Debug\netcoreapp3.0\CountHolesKata.runtimeconfig.json
+C:\vanguardia\projects\CountHoles\CountHolesKata\bin\Debug\netcoreapp3.0\CountHolesKata.runtimeconfig.dev.json
+C:\vanguardia\projects\CountHoles\CountHolesKata\bin\Debug\netcoreapp3.0\CountHolesKata.dll
+C:\vanguardia\projects\CountHoles\CountHolesKata\bin\Debug\netcoreapp3.0\CountHolesKata.pdb
+C:\vanguardia\projects\CountHoles\CountHolesKata\obj\Debug\netcoreapp3.0\CountHolesKata.dll
+C:\vanguardia\projects\CountHoles\CountHolesKata\obj\Debug\netcoreapp3.0\CountHolesKata.pdb

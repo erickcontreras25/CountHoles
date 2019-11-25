@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CountHolesKata/1.0.0": {
+        "runtime": {
+          "CountHolesKata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountHolesKata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
